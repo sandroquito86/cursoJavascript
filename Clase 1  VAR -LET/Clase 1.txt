@@ -1,0 +1,7 @@
+Las variables se las declara usando la palabra reservada var o let
+diferencia
+	si declaro una variable var dentro de un bloque lo que hara js es declararla de forma
+	global, la variables declaradas con var existiran en el objeto window
+
+	las variables declaradas con let si respetan su declaración en cada uno de sus bloques, 
+	asi que por buenas practicas se debe usar let
